@@ -1,0 +1,77 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/ShipporiMinchoSemiBold.ttf");
+  font-family: "Shippori Mincho";
+  font-weight: 600;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/WorkSansRomanSemiBold.ttf");
+  font-family: "Work Sans";
+  font-weight: 600;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/WorkSansRomanRegular.ttf");
+  font-family: "Work Sans";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/WorkSansRomanMedium.ttf");
+  font-family: "Work Sans";
+  font-weight: 500;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/InterMedium.ttf");
+  font-family: "Inter";
+  font-weight: 500;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/Shanti.ttf");
+  font-family: "Shanti";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/SueEllenFrancisco.ttf");
+  font-family: "Sue Ellen Francisco";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/ShipporiMinchoExtraBold.ttf");
+  font-family: "Shippori Mincho";
+  font-weight: 800;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/ShipporiMinchoBold.ttf");
+  font-family: "Shippori Mincho";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/InterRegular.ttf");
+  font-family: "Inter";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/WorkSansItalicRegular.ttf");
+  font-family: "Work Sans";
+  font-weight: 400;
+}
